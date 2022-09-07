@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kazouha
 - 👀 I’m interested in a lot of things, especially plant biology and bioinformatics.
-- 🌱 I’m currently learning Python and Java (Informatics student).
+- 🌱 I’m currently learning Python and Java (Computer Science student).
 - 📫 How to reach me: via Twitter would be best. Link is in my bio. You can PM me in either English or German.
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
